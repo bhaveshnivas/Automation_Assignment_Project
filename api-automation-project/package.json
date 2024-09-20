@@ -1,0 +1,20 @@
+{
+  "name": "api-automation-project",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bhavesh Nivas",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chai": "^4.3.19",
+    "axios": "^1.7.7",
+    "chai": "^5.1.1",
+    "chai-http": "^5.0.0",
+    "mocha": "^10.7.3"
+  }
+}
